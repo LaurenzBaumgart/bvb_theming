@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+~ Copyright (C) 2019 The Android Open Source Project
+~
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~      http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:paddingTop="@dimen/keyline_5"
+  android:paddingBottom="@dimen/keyline_5"
+  android:paddingStart="@dimen/keyline_4"
+  android:paddingEnd="@dimen/keyline_4">
+
+    <io.material.materialthemebuilder.widget.LabelLinkView
+      android:id="@+id/label"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="@dimen/keyline_4"
+      android:text="@string/label_typography_scale_title"
+      app:leadingIcon="@drawable/ic_format_size_24dp"
+      app:linkUrl="https://material.io/design/typography/the-type-system.html#type-scale" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2"
+        android:text="\?textAppearanceXlargeBold"
+        app:previewAlpha="?alphaEmphasisHigh"
+        app:previewText="@string/text_appearance_h1_label"
+        app:previewTextAppearance="?textAppearanceXlargeBold" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2"
+        android:text="\?textAppearanceXlarge"
+        app:previewAlpha="?alphaEmphasisHigh"
+        app:previewText="@string/text_appearance_h2_label"
+        app:previewTextAppearance="?textAppearanceXlarge" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="\?textAppearanceLargeBold"
+      app:previewText="@string/text_appearance_h3_label"
+      app:previewTextAppearance="?textAppearanceLargeBold"
+      app:previewAlpha="?alphaEmphasisHigh"
+      android:layout_marginTop="@dimen/keyline_2"
+      android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="\?textAppearanceLarge"
+      app:previewText="@string/text_appearance_h4_label"
+      app:previewTextAppearance="?textAppearanceLarge"
+      app:previewAlpha="?alphaEmphasisHigh"
+      android:layout_marginTop="@dimen/keyline_2"
+      android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="\?textAppearanceMediumBold"
+      app:previewText="@string/text_appearance_h5_label"
+      app:previewTextAppearance="?textAppearanceMediumBold"
+      app:previewAlpha="?alphaEmphasisHigh"
+      android:layout_marginTop="@dimen/keyline_2"
+      android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\?textAppearanceMedium"
+        app:previewText="@string/text_appearance_h5_label"
+        app:previewTextAppearance="?textAppearanceMedium"
+        app:previewAlpha="?alphaEmphasisHigh"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\?textAppearanceSmallBold"
+        app:previewText="@string/text_appearance_h5_label"
+        app:previewTextAppearance="?textAppearanceSmallBold"
+        app:previewAlpha="?alphaEmphasisHigh"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\?textAppearanceSmall"
+        app:previewText="@string/text_appearance_h5_label"
+        app:previewTextAppearance="?textAppearanceSmall"
+        app:previewAlpha="?alphaEmphasisHigh"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\?textAppearanceXSmallBold"
+        app:previewText="@string/text_appearance_h5_label"
+        app:previewTextAppearance="?textAppearanceXSmallBold"
+        app:previewAlpha="?alphaEmphasisHigh"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2" />
+
+    <io.material.materialthemebuilder.widget.TypeAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\?textAppearanceXSmall"
+        app:previewText="@string/text_appearance_h5_label"
+        app:previewTextAppearance="?textAppearanceXSmall"
+        app:previewAlpha="?alphaEmphasisHigh"
+        android:layout_marginTop="@dimen/keyline_2"
+        android:layout_marginBottom="@dimen/keyline_2" />
+
+</LinearLayout>

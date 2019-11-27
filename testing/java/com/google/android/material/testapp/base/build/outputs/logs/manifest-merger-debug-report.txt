@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:17:1-21:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:17:1-21:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:17:1-21:12
+	package
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:18:3-53
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml:20:3-17
+uses-sdk
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/testing/java/com/google/android/material/testapp/base/AndroidManifest.xml

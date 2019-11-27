@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+MERGED from [:lib] /Users/laurenzbaumgart/workspace/material-components-android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/41f9d6fc696214f2bd664dcdb54fb3ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d49f9161f4f843c53cd24dfdceade4c8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/200816fda36f91f433362ec23789430c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-rc01.aar/c974468b1e55156b71c46b4c59d5300a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/1fae29d1b7a4f9b50e719b3988925e29/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/7e7d9b8f3f54ebd9943c82939b99439d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/798f5afe22381acfa23a04016f283749/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/87f024b039adc566212a82df2d04bd0e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-rc01.aar/079ccba104aba0d759faa041f851e808/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/458a7cddc4d556fcbba773874de4ce88/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6113ee68446f6bf3345445d9cad0f7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-rc01.aar/e1b0fa84ce77eb959d58c26f69521cf2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4a7191416a1ab8400484a5e9ab7d120d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0af029217a89e68ad6ff46d1ad95a12e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/335f0aa3701faff194bf2aa1eab2bc8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/00e8d4112e13c2c8ed45dbc9be7d7155/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/e6fbee085784ecf503da40a8fd9498a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9ab7056cd4f19dc6cb6079e610954401/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/9c4b3c5c3320a8541687ec16605a1b18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/12e81dd8a2dcc83b02b1f40343b2390f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/79ab8a8f79e38dc49976c754a982d3c8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8a616fa8b368d39ee36aeab9a59e71f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ca21bbaa3104515cf46b622443c53a4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bbf068a67961fdc148bd2acea0737a9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a05e44dbe2ccda3828506dd4d039ad75/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:20:5-47
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:1-44:12
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:22:5-42:19
+MERGED from [:lib] /Users/laurenzbaumgart/workspace/material-components-android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-20
+MERGED from [:lib] /Users/laurenzbaumgart/workspace/material-components-android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d49f9161f4f843c53cd24dfdceade4c8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d49f9161f4f843c53cd24dfdceade4c8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9ab7056cd4f19dc6cb6079e610954401/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9ab7056cd4f19dc6cb6079e610954401/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:30:9-48
+	android:roundIcon
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:23:9-28
+activity#io.material.materialthemebuilder.ui.MainActivity
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:31:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:36:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:39:9-41:57
+	android:resource
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:41:13-54
+	android:name
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml:40:13-43
+uses-sdk
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+MERGED from [:lib] /Users/laurenzbaumgart/workspace/material-components-android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-44
+MERGED from [:lib] /Users/laurenzbaumgart/workspace/material-components-android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/41f9d6fc696214f2bd664dcdb54fb3ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/41f9d6fc696214f2bd664dcdb54fb3ba/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d49f9161f4f843c53cd24dfdceade4c8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d49f9161f4f843c53cd24dfdceade4c8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/200816fda36f91f433362ec23789430c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/200816fda36f91f433362ec23789430c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-rc01.aar/c974468b1e55156b71c46b4c59d5300a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-rc01.aar/c974468b1e55156b71c46b4c59d5300a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/1fae29d1b7a4f9b50e719b3988925e29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/1fae29d1b7a4f9b50e719b3988925e29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/7e7d9b8f3f54ebd9943c82939b99439d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/7e7d9b8f3f54ebd9943c82939b99439d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/798f5afe22381acfa23a04016f283749/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/798f5afe22381acfa23a04016f283749/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/87f024b039adc566212a82df2d04bd0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/87f024b039adc566212a82df2d04bd0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-rc01.aar/079ccba104aba0d759faa041f851e808/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-rc01.aar/079ccba104aba0d759faa041f851e808/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/458a7cddc4d556fcbba773874de4ce88/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/458a7cddc4d556fcbba773874de4ce88/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6113ee68446f6bf3345445d9cad0f7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6113ee68446f6bf3345445d9cad0f7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-rc01.aar/e1b0fa84ce77eb959d58c26f69521cf2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-rc01.aar/e1b0fa84ce77eb959d58c26f69521cf2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4a7191416a1ab8400484a5e9ab7d120d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4a7191416a1ab8400484a5e9ab7d120d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0af029217a89e68ad6ff46d1ad95a12e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0af029217a89e68ad6ff46d1ad95a12e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/335f0aa3701faff194bf2aa1eab2bc8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/335f0aa3701faff194bf2aa1eab2bc8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/00e8d4112e13c2c8ed45dbc9be7d7155/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/00e8d4112e13c2c8ed45dbc9be7d7155/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/eb287fe376521c379672bd5e280eff97/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/e6fbee085784ecf503da40a8fd9498a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/e6fbee085784ecf503da40a8fd9498a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9ab7056cd4f19dc6cb6079e610954401/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/9ab7056cd4f19dc6cb6079e610954401/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/9c4b3c5c3320a8541687ec16605a1b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/9c4b3c5c3320a8541687ec16605a1b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/12e81dd8a2dcc83b02b1f40343b2390f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/12e81dd8a2dcc83b02b1f40343b2390f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/79ab8a8f79e38dc49976c754a982d3c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/79ab8a8f79e38dc49976c754a982d3c8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8a616fa8b368d39ee36aeab9a59e71f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8a616fa8b368d39ee36aeab9a59e71f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ca21bbaa3104515cf46b622443c53a4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ca21bbaa3104515cf46b622443c53a4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bbf068a67961fdc148bd2acea0737a9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bbf068a67961fdc148bd2acea0737a9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a05e44dbe2ccda3828506dd4d039ad75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/laurenzbaumgart/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a05e44dbe2ccda3828506dd4d039ad75/AndroidManifest.xml:20:5-44
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		ADDED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
+		INJECTED from /Users/laurenzbaumgart/workspace/material-components-android/material-theme-builder/src/main/AndroidManifest.xml
